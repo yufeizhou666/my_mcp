@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(node dist/index.js:*)",
+      "WebFetch(domain:docs.claude.ai)",
+      "Bash(claude mcp:*)"
+    ]
+  },
+  "outputStyle": "Explanatory"
+}

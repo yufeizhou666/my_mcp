@@ -1,0 +1,8 @@
+2026-04-30 10:00:00 [INFO] Application started
+2026-04-30 10:01:23 [ERROR] Database connection failed: timeout after 30s
+2026-04-30 10:02:15 [WARN] Retry attempt 1 of 3 for database connection
+2026-04-30 10:03:00 [INFO] Connection restored
+2026-04-30 10:05:30 [DEBUG] Processing request from user 12345
+2026-04-30 10:10:00 [ERROR] API rate limit exceeded for client 192.168.1.100
+2026-04-30 10:15:00 [INFO] Scheduled task completed successfully
+2026-04-30 10:20:00 [WARN] Memory usage above 80% threshold
